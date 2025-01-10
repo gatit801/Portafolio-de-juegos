@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+
+#app{
+    background-color: antiquewhite;
+}
+
+#game{
+    background-color: rgb(245, 140, 140);
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
